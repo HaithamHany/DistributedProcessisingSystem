@@ -1,5 +1,5 @@
 import pandas as pd
-data = pd.read_csv('asset_cropland-fires_emissions.csv')
+data = pd.read_csv('datasets/asset_cropland-fires_emissions.csv')
 
 # what are the emission factors values were considered between the period of 2015 and 2018?
 start_date = '2015-01-01'
